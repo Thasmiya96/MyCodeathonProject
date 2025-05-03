@@ -20,5 +20,5 @@ College Management System
 - Java (JDK 11)
 - Java Swing
 -  Notepad (as editor)
-- JDBC (if applicable)
+- JDBC 
 - Oracle DB
